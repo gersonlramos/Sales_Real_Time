@@ -108,15 +108,7 @@ O script SQL gera automaticamente:
 
 Confira o vídeo de demonstração do dashboard em funcionamento:
 
-https://github.com/user-attachments/assets/your-video-id-here
-
-**Como fazer o vídeo aparecer diretamente:**
-1. Faça upload do repositório no GitHub
-2. Vá para Issues → New Issue
-3. Arraste o arquivo `video/Real_time_sales_PWBI.mp4` na caixa de texto
-4. O GitHub gerará automaticamente um link como: `https://github.com/user-attachments/assets/[id-único]`
-5. Copie esse link e substitua acima
-6. Feche a issue (não precisa criar)
+[https://github.com/user-attachments/assets/your-video-id-here](https://github.com/user-attachments/assets/812e7f82-009e-40d5-8749-c292f05c96dd)
 
 > **Nota**: O vídeo mostra o dashboard em tempo real, incluindo a atualização automática dos dados e todas as funcionalidades interativas.
 
